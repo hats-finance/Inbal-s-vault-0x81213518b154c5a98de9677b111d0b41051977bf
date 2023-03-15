@@ -1,7 +1,7 @@
 module.exports = {
     "goerli": {
-        "governance": "0x640578ae752BA31d2Ad37112fc515b5238B0BdFF",
-        "timelockDelay": 604800,
+        "governance": "0xFc9F1d127f8047B0F41e9eAC2Adc2e5279C568B7",
+        "timelockDelay": 300,
         "executors": [
             "0xfe46D9193BBCE8c590298d77b6f8dB0e619c7FF7",
             "0xe24886AC31c25B544092542aD55aa484FbBF506B",
